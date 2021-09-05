@@ -8,11 +8,11 @@ All credit goes to the University of Wisconsin for the format of this homework a
 This repo contains code for the password validator. The below questions should be answered regarding your submission!
 
 ## Did you find the JavaScript Learning Tutor useful? If so, what about the tool made it useful? If not, why not?
-> Answer goes here!
+> We never got the link to it, but I was able to teach myself as much javaScript as I needed in order to make it work
 
 
 ## Do you have any suggestions on how the JavaScript Learning Tutor might be improved?
-> Answer goes here
+> Let us do it ;)
 
 
 ## Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!).
@@ -26,9 +26,10 @@ This repo contains code for the password validator. The below questions should b
 
 
 ## On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment?
-> 7
+> 7, probably would be easier if we had had the tutorial
 
 
 ## Did you encounter any problems in this assignment we should warn students about in the future? How can we make the assignment better?
 > I basically have never used the command line directly so I did not know where I was supposed to be doing the commands or what even I was supposed to do.
+> Also, I added a special character requirement to the password validation javaScript just to see if I could, it just needs to be uncommented.
 
