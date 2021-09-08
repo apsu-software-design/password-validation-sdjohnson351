@@ -8,11 +8,11 @@ All credit goes to the University of Wisconsin for the format of this homework a
 This repo contains code for the password validator. The below questions should be answered regarding your submission!
 
 ## Did you find the JavaScript Learning Tutor useful? If so, what about the tool made it useful? If not, why not?
-> We never got the link to it, but I was able to teach myself as much javaScript as I needed in order to make it work
+> I did not get the link to it until after I finished, but I was able to teach myself as much javaScript as I needed in order to make it work.
 
 
 ## Do you have any suggestions on how the JavaScript Learning Tutor might be improved?
-> Let us do it ;)
+> Since I did not use it, I cannot say.
 
 
 ## Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!).
@@ -22,11 +22,11 @@ This repo contains code for the password validator. The below questions should b
 
 
 ## Approximately how many hours did it take you to complete this assignment?
-> 6, most of that time was learning JavaScript
+> 6, most of that time was learning JavaScript.
 
 
 ## On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment?
-> 7, probably would be easier if we had had the tutorial
+> 7, probably would be easier if I had had the tutorial.
 
 
 ## Did you encounter any problems in this assignment we should warn students about in the future? How can we make the assignment better?
